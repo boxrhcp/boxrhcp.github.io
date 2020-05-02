@@ -6,7 +6,7 @@ description: bio webpage
 
 # User settings
 username: Fayán Leo Pardo
-user_description: I\'m a Cloud Software Engineer, I consider myself a working, comprehensive, attentive and persistent person. I enjoy being up to date with the last technologies and to teach and show my knowledge to everyone. Currently studying Master in Cloud Computing and Services program from EIT Digital, first year in Université Rennes 1, second year in Technische Universität Berlin. Worked as consultant, trainer and developer in 3 different companies. Graduated in Computer Science in Universidad Carlos III de Madrid.</a>
+user_description: I'm a Cloud Software Engineer, I consider myself a working, comprehensive, attentive and persistent person. I enjoy being up to date with the last technologies and to teach and show my knowledge to everyone. Currently studying Master in Cloud Computing and Services program from EIT Digital, first year in Université Rennes 1, second year in Technische Universität Berlin. Worked as consultant, trainer and developer in 3 different companies. Graduated in Computer Science in Universidad Carlos III de Madrid.</a>
 user_title: Cloud Software Engineer
 email: fayanpardo@gmail.com
 # twitter_username: lorem_ipsum
@@ -14,7 +14,7 @@ email: fayanpardo@gmail.com
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
-google-analytics:
-  id: ""
+#google-analytics:
+#  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
