@@ -1,12 +1,12 @@
 # Site settings
-title: Fayán Leonardo Pardo Ladino
+title: Fayán Leo Pardo
 description: bio webpage
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Fayán Leonardo Pardo Ladino
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+username: Fayán Leo Pardo
+user_description: I\'m a Cloud Software Engineer, I consider myself a working, comprehensive, attentive and persistent person. I enjoy being up to date with the last technologies and to teach and show my knowledge to everyone. Currently studying Master in Cloud Computing and Services program from EIT Digital, first year in Université Rennes 1, second year in Technische Universität Berlin. Worked as consultant, trainer and developer in 3 different companies. Graduated in Computer Science in Universidad Carlos III de Madrid.</a>
 user_title: Cloud Software Engineer
 email: fayanpardo@gmail.com
 # twitter_username: lorem_ipsum
